@@ -53,6 +53,7 @@
     <Compile Include="Creational\SingletonTest.cs" />
     <Compile Include="Creational\PrototypeTest.cs" />
     <Compile Include="Creational\BuilderTest.cs" />
+    <Compile Include="Creational\AbstractFactoryTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
